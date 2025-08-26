@@ -1,0 +1,11 @@
+let student_name ="jayasurya";
+let student;
+student="jayasurya";
+console.log(student);
+let bookname="harry potar";
+bookname="kumar"
+let bookauthor="surya";
+console.log(bookname,"\t",bookauthor);
+let $bookname="harry potar";
+console.log(bookname);
+console.log($bookname);
