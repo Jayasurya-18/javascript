@@ -1,0 +1,46 @@
+/* //unary operator
+let a=-1;
+a=+a;
+console.log(a) */
+ /* 
+//other type
+let d= +10 + +10
+console.log(d) */
+
+
+/* 
+//binary operator
+let a=10;
+let b=20;
+let c=a+b;    //+,-,*,/,%,**
+console.log(c) *//* 
+  //string concatination
+   let a='surya'
+   let n='jaya'
+   console.log(n+a) */
+
+   /* //modify in place
+
+   let a=10;
+   a+=10;
+   console.log(a)
+
+
+    */
+
+
+   //increment pre increment
+   /* let a=10
+   let b=10
+   a=a++;
+
+   b=++b;
+   console.log(a,b) */
+
+   //decrement  post decrement
+   
+   let a=10;
+   let b=20;
+   a=a--;
+   b=--b;
+   console.log(a,b)
