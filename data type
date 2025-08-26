@@ -1,0 +1,30 @@
+//number data types
+let sum=543+235;
+let pi=3.14;
+console.log(typeof sum,"\n",pi);
+
+
+//special numeric values
+let infi=Infinity;
+let neginfi=-Infinity;
+console.log(typeof infi)
+let nan=NaN**0;  //nan-> NOT AN NUMBER
+console.log(typeof nan)
+console.log(nan)
+
+
+//bigint data type
+
+let big=123456789234567812n;
+console.log(typeof big)
+console.log(big +20n) 
+
+
+//string
+
+let name="surya";
+console.log(name);
+let para="iam surya's father";//double quotes
+let text='surya "family"';// single quotes
+let embed=`printed text=${2+2}`;// embed keywords
+console.log(para,"\n", text, "\n", embed);
