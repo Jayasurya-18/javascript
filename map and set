@@ -1,0 +1,16 @@
+/* //map
+let map=new Map();
+map.set(1,'surya').set(2,'jaya').set(3,'ram');//insert
+map.delete(1)//delete
+//map.clear()//all clear */
+
+//set
+let set=new Set();
+set.add(1,'surya').add(2,'jaya').add(3,'ram');//insert
+set.delete(1)//delete
+set.clear()//all clear
+
+    console.log(set)
+
+
+
