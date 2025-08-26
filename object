@@ -1,0 +1,14 @@
+//object
+let student = {
+    name :"jayasurya",
+    age: 21,
+    operation(){
+
+          return this.age+2
+    }
+}
+
+/* delete student.age;//delete an properties */
+student['behaviour']="good";//insert
+student.name="jayasurya.B";//update
+console.log(student.operation())
