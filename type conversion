@@ -1,0 +1,15 @@
+/* let age='23';
+age=String(age)
+console.log(age);
+console.log(typeof age) */ // number - string conversion
+
+// boolean conversion
+ /* let age=" 0";
+ age=Boolean(age);
+ console.log(age) */
+
+ //string conversion
+ let age=true;
+ age=String(age)
+ console.log(typeof age)
+ console.log(age)
