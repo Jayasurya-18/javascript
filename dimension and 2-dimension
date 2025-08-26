@@ -1,0 +1,23 @@
+ //array
+let fruits=['apple','mango',23,true]
+console.log(fruits)
+console.log(fruits[0])//accssed particular element
+fruits.push(false)//adding
+fruits.unshift('graphs')//adding first
+fruits.pop()//delete last element
+fruits.shift(fruits)//delete first element
+console.log(fruits)
+fruits.shift(fruits[0])//delete particular element
+console.log(fruits) 
+
+//matric array 2 dimensional array
+let mat=[
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+console.log(mat[0][0])
+for(values of mat)
+console.log(values)
+
+
