@@ -1,0 +1,47 @@
+//while lopp
+/* let a=1;
+while(a<=10)
+{
+    console.log(a)
+    a++;
+} */ 
+
+    //do while
+/* let a=10;
+do
+{
+    console.log(a)
+    a++;
+} while(a<11) */
+
+//for
+/* 
+for(let a=1; a<=10; a++)
+{
+    console.log(a)
+
+}  */
+
+    //factorial using for loop
+
+    /* let a=5;
+    let ans=1;
+    for(let i=1;i<=a;i++)
+    {
+      ans=ans*i;
+      console.log(ans)
+    }
+     */
+
+    //factorial using while loop
+
+    let a=5;
+    let ans=1;
+    let i=1;
+    while(i<=a)
+    {
+      ans=ans*i;
+      console.log(ans)
+      i++;
+    }
+    
